@@ -1,4 +1,4 @@
-______________________STOCK BACKTESTING API_____________________
+_____________________STOCK BACKTESTING API_____________________
 
 This dash app can be used to backtest 3 different strategies on any stock available on yahoo finance.
 
