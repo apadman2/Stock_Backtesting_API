@@ -15,6 +15,8 @@ from kvo import KVO
 from sharpe import Sharpe
 import datetime
 
+## Testing GITHUB LINK TO VSCODE
+
 # Activating Yahoo finance
 yf.pdr_override()
 
